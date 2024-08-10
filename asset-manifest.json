@@ -1,25 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc337f99.css",
-    "main.js": "/static/js/main.ebba4b9b.js",
+    "main.css": "/static/css/main.95ee5f9d.css",
+    "main.js": "/static/js/main.ab7060c0.js",
     "static/js/909.e52fcb31.chunk.js": "/static/js/909.e52fcb31.chunk.js",
     "static/media/project6.png": "/static/media/project6.6bf9142d3befeb5e2897.png",
+    "static/media/profile00.jpeg": "/static/media/profile00.a8654b0d5615422d120a.jpeg",
     "static/media/sarma.png": "/static/media/sarma.b6051621f25beb21aadb.png",
-    "static/media/project5.jpg": "/static/media/project5.ff0fa8e1a943ea42fa43.jpg",
-    "static/media/project1.png": "/static/media/project1.dc795513053458a208e8.png",
     "static/media/KamleshMitawa_Resume.pdf": "/static/media/KamleshMitawa_Resume.f8d3d9fa4359a0360126.pdf",
-    "static/media/project2.png": "/static/media/project2.b993d323fd9798c7c1ba.png",
-    "static/media/project4.png": "/static/media/project4.c67cf275f74cd29022b6.png",
     "static/media/project7.png": "/static/media/project7.3479cbb3ee9e445db336.png",
-    "static/media/profile.png": "/static/media/profile.0334f4b4096534cc3936.png",
-    "static/media/project3.jpg": "/static/media/project3.73c3e0518b57cf6b3e1e.jpg",
     "index.html": "/index.html",
-    "main.bc337f99.css.map": "/static/css/main.bc337f99.css.map",
-    "main.ebba4b9b.js.map": "/static/js/main.ebba4b9b.js.map",
+    "main.95ee5f9d.css.map": "/static/css/main.95ee5f9d.css.map",
+    "main.ab7060c0.js.map": "/static/js/main.ab7060c0.js.map",
     "909.e52fcb31.chunk.js.map": "/static/js/909.e52fcb31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc337f99.css",
-    "static/js/main.ebba4b9b.js"
+    "static/css/main.95ee5f9d.css",
+    "static/js/main.ab7060c0.js"
   ]
 }
