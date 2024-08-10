@@ -6,9 +6,11 @@ export const Type = () => {
       options={{
         strings: [
           "Software Developer",
-          "Chess Enthusiast",
-          "Creative Thinking",
-          "Exploring New Places",
+          "Team Player and Collaborator",
+          "Creative Thinker",
+          "Explorer of New Places",
+          "Mentor for Aspiring Developers",
+          "Lifelong Learner and Tech Enthusiast"
         ],
         autoStart: true,
         loop: true,

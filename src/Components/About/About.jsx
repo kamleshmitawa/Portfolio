@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import "./About.css";
 import { ThemeContext } from "../../Context/Theme";
-import profilePic from "../../assets/profile.png";
+import profilePic from "../../assets/profile00.jpeg";
 
 export const About = () => {
   const [{ themename }] = useContext(ThemeContext);
@@ -15,7 +15,7 @@ export const About = () => {
         <img src={profilePic} alt="Images" />
       </div>
       <div className="about_datacontainer">
-        <h4>
+        <p>
           Hello, I&apos;m
           <span className="different"> Kamlesh Mitawa </span> and I am from{" "}
           <span className="different">
@@ -26,7 +26,7 @@ export const About = () => {
           <span className="different"> Maharshi Dayanand University (MDU), Rohtak</span>.
           Currently, I am a  <span className="different"> Module Lead </span> at
           <span className="different"> Q3 Technologies, </span> where I contribute to various innovative projects and drive technological advancements.
-        </h4>
+        </p>
         <h4>Fun Facts & Hobbies That Define Me Beyond Coding :</h4>
         <p>
           <span className="different">
@@ -42,7 +42,7 @@ export const About = () => {
         </p>
         <p>
           <span className="different">
-            👶 Playing with Children: </span> <span className="points">Love spending time with kids and engaging in playful activities.</span>
+            👶 Quality Time with Family: </span> <span className="points">I cherish spending time with children, enjoying playful activities and creating joyful moments together.</span>
         </p>
       </div>
     </div>

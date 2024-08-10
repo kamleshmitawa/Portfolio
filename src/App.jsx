@@ -12,7 +12,6 @@ import { Techstacks } from "./Components/Techstacks/Techstacks";
 import { Introduction } from "./Components/Introduction/Introduction";
 import { About } from "./Components/About/About";
 import { Timeline } from "./Components/Timeline/Timeline";
-import { ClientProjects } from "./Components/ClientProjects/ClientProjects";
 
 function App() {
   const [{ themename }] = useContext(ThemeContext);
@@ -36,9 +35,9 @@ function App() {
         <section id="#skills">
           <Techstacks />
         </section>
-        <section id="#client_projects">
+        {/* <section id="#client_projects">
           <ClientProjects />
-        </section>
+        </section> */}
         <section id="#projects">
           <Projects />
         </section>

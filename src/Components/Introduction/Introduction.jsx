@@ -11,12 +11,12 @@ export const Introduction = () => {
   return (
     <div className="introduction center">
       <h1 data-aos="fade-right" className="mobileHead">
-        Hello, I am <span className="introduction__name">Kamlesh Mitawa</span>
+        Hello, I&apos;m <span className="introduction__name">Kamlesh Mitawa</span>
       </h1>
       <Type />
       <p className="introduction__desc" data-aos="fade-right">
-        I’m a passionate React.js Developer with 6 years of experience in web, mobile, and distributed technologies. Specializing in JavaScript, I excel at creating robust applications and scalable solutions with React, Redux, and TypeScript.
-        Driven by a continuous desire to learn and innovate, I actively contribute to tech blogs and share my insights on ReactJS. Let’s connect and explore exciting opportunities in web and mobile development!
+        I&apos;m a passionate React.js Developer with 6 years of experience in web, mobile, and distributed technologies. Specializing in JavaScript, I excel at creating robust applications and scalable solutions with React, Redux, and TypeScript.
+        Driven by a continuous desire to learn and innovate, I actively contribute to tech blogs and share my insights on ReactJS. Let&apos;s connect and explore exciting opportunities in web and mobile development!
       </p>
       <div className="introduction__contact center">
         <a
